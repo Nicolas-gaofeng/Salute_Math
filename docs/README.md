@@ -37,6 +37,7 @@ Markdown编辑器使用[Typora](https://typora.io/)
 ## 仓库说明
 
 - 这是一份本人学习数学从入门到跑路的记录。
+- 课程：[麻省理工公开课：线性代数](http://open.163.com/special/opencourse/daishu.html)
 - 内容还在不断更新中。
 - 如果本仓库存在的内容对您和您的利益产生损害，请立即私信，我们将在最短时间内对其做出处理。
 
@@ -95,5 +96,5 @@ Markdown编辑器使用[Typora](https://typora.io/)
 
 
 
-> [Salute_Knowledge_Graph](https://github.com/Nicolas-gaofeng/Salute_Knowledge_Graph) ©2021 Powered By [docsify](https://github.com/docsifyjs/docsify/).
+> [Salute_Math](https://github.com/Nicolas-gaofeng/Salute_Math) ©2021 Powered By [docsify](https://github.com/docsifyjs/docsify/).
 
