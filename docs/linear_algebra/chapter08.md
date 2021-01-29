@@ -1,18 +1,20 @@
-
 # 第八讲：求解$Ax=b$：可解性和解的结构
 
+> [本章jupyter地址](https://github.com/Nicolas-gaofeng/Salute_Math/blob/main/jupyter/chapter08.ipynb)
+
 举例，同上一讲：$3 \times 4$矩阵
-$
+
+$$
 A=
 \begin{bmatrix}
 1 & 2 & 2 & 2\\
 2 & 4 & 6 & 8\\
 3 & 6 & 8 & 10\\
 \end{bmatrix}
-$，求$Ax=b$的特解：
+$$
+，求$Ax=b$的特解：
 
-写出其增广矩阵（augmented matrix）$\left[\begin{array}{c|c}A & b\end{array}\right]$：
-
+，写出其增广矩阵（augmented matrix）$\left[\begin{array}{c|c}A & b\end{array}\right]$：
 $$
 \left[
 \begin{array}{c c c c|c}
@@ -35,28 +37,34 @@ $$
 
 讨论$b$满足什么条件才能让方程$Ax=b$有解（solvability condition on b）：当且仅当$b$属于$A$的列空间时。另一种描述：如果$A$的各行线性组合得到$0$行，则$b$端分量做同样的线性组合，结果也为$0$时，方程才有解。
 
-解法：令所有自由变量取$0$，则有$
+解法：令所有自由变量取$0$，则有
+$$
 \Big\lbrace
 \begin{eqnarray*}
 x_1 & + & 2x_3 & = & 1 \\
     &   & 2x_3 & = & 3 \\
 \end{eqnarray*}
-$
+$$
 ，解得
-$
+
+$$
 \Big\lbrace
 \begin{eqnarray*}
 x_1 & = & -2 \\
 x_3 & = & \frac{3}{2} \\
 \end{eqnarray*}
-$
+$$
+
 ，代入$Ax=b$求得特解
-$
+
+$$
 x_p=
 \begin{bmatrix}
 -2 \\ 0 \\ \frac{3}{2} \\ 0
 \end{bmatrix}
-$。
+$$
+
+。
 
 令$Ax=b$成立的所有解：
 

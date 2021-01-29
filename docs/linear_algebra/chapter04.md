@@ -1,6 +1,8 @@
 
 # 第四讲：$A$ 的 $LU$ 分解
 
+> [本章jupyter地址](https://github.com/Nicolas-gaofeng/Salute_Math/blob/main/jupyter/chapter04.ipynb)
+
 $AB$的逆矩阵：
 $$
 \begin{aligned}

@@ -1,5 +1,6 @@
-
 # 第九讲：线性相关性、基、维数
+
+> [本章jupyter地址](https://github.com/Nicolas-gaofeng/Salute_Math/blob/main/jupyter/chapter09.ipynb)
 
 $v_1,\ v_2,\ \cdots,\ v_n$是$m\times n$矩阵$A$的列向量：
 

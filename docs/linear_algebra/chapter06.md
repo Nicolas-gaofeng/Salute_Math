@@ -1,5 +1,6 @@
-
 # 第六讲：列空间和零空间
+
+> [本章jupyter地址](https://github.com/Nicolas-gaofeng/Salute_Math/blob/main/jupyter/chapter06.ipynb)
 
 对向量子空间$S$和$T$，有$S \cap T$也是向量子空间。
 

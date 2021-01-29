@@ -1,5 +1,6 @@
-
 # 第五讲：转换、置换、向量空间R
+
+> [本章jupyter地址](https://github.com/Nicolas-gaofeng/Salute_Math/blob/main/jupyter/chapter05.ipynb)
 
 ## 置换矩阵（Permutation Matrix）
 

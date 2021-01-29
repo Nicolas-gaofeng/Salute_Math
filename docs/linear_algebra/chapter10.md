@@ -1,5 +1,6 @@
-
 # 第十讲 四个基本子空间
+
+> [本章jupyter地址](https://github.com/Nicolas-gaofeng/Salute_Math/blob/main/jupyter/chapter10.ipynb)
 
 对于$m \times n$矩阵$A$，$rank(A)=r$有：
 

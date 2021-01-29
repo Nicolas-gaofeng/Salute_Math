@@ -1,5 +1,6 @@
-
 # 第七讲：求解$Ax=0$，主变量，特解
+
+> [本章jupyter地址](https://github.com/Nicolas-gaofeng/Salute_Math/blob/main/jupyter/chapter07.ipynb)
 
 举例：$3 \times 4$矩阵
 $
