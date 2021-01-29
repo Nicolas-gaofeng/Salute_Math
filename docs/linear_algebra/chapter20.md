@@ -1,5 +1,6 @@
-
 # 第二十讲：克拉默法则、逆矩阵、体积
+
+> [本章jupyter地址](https://github.com/Nicolas-gaofeng/Salute_Math/blob/main/jupyter/chapter20.ipynb)
 
 本讲主要介绍逆矩阵的应用。
 

@@ -1,5 +1,6 @@
-
 # 第二十六讲：对称矩阵及正定性
+
+> [本章jupyter地址](https://github.com/Nicolas-gaofeng/Salute_Math/blob/main/jupyter/chapter26.ipynb)
 
 ## 对称矩阵
 

@@ -1,5 +1,6 @@
-
 # 第十五讲：子空间投影
+
+> [本章jupyter地址](https://github.com/Nicolas-gaofeng/Salute_Math/blob/main/jupyter/chapter15.ipynb)
 
 从$\mathbb{R}^2$空间讲起，有向量$a, b$，做$b$在$a$上的投影$p$，如图：
 

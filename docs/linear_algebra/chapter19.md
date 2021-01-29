@@ -1,5 +1,6 @@
-
 # 第十九讲：行列式公式和代数余子式
+
+> [本章jupyter地址](https://github.com/Nicolas-gaofeng/Salute_Math/blob/main/jupyter/chapter19.ipynb)
 
 上一讲中，我们从三个简单的性质扩展出了一些很好的推论，本讲将继续使用这三条基本性质：
 

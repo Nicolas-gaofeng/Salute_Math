@@ -1,5 +1,6 @@
-
 # 第三十一讲：线性变换及对应矩阵
+
+> [本章jupyter地址](https://github.com/Nicolas-gaofeng/Salute_Math/blob/main/jupyter/chapter31.ipynb)
 
 如何判断一个操作是不是线性变换？线性变换需满足以下两个要求：
 
@@ -178,4 +179,5 @@ plt.close(fig)
     
     有$A\begin{bmatrix}c_1\\c_2\\c_3\end{bmatrix}=\begin{bmatrix}c_2\\2c_3\end{bmatrix}$，从输入输出的空间维数可知，$A$是一个$2\times 3$矩阵，$A=\begin{bmatrix}0&1&0\\0&0&2\end{bmatrix}$。
     
+
 最后，矩阵的逆相当于对应线性变换的逆运算，矩阵的乘积相当于线性变换的乘积，实际上矩阵乘法也源于线性变换。

@@ -1,6 +1,8 @@
 
 # 第十一讲：矩阵空间、秩1矩阵和小世界图
 
+> [本章jupyter地址](https://github.com/Nicolas-gaofeng/Salute_Math/blob/main/jupyter/chapter11.ipynb)
+
 ## 矩阵空间
 
 接上一讲，使用$3 \times 3$矩阵举例，其矩阵空间记为$M$。

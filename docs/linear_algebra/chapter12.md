@@ -1,6 +1,8 @@
 
 # 第十二讲：图和网络
 
+> [本章jupyter地址](https://github.com/Nicolas-gaofeng/Salute_Math/blob/main/jupyter/chapter12.ipynb)
+
 ## 图和网络
 
 

@@ -1,5 +1,6 @@
-
 # 第三十三讲：单元检测3复习
+
+> [本章jupyter地址](https://github.com/Nicolas-gaofeng/Salute_Math/blob/main/jupyter/chapter33.ipynb)
 
 在上一次复习中，我们已经涉及了求特征值与特征向量（通过解方程$\det(A-\lambda I)=0$得出$\lambda$，再将$\lambda$带入$A-\lambda I$求其零空间得到$x$）。
 
@@ -26,7 +27,7 @@
     上面的解法并没有求特征向量，进而通过$u(t)=e^{At}u(0)$得到通解，现在我们就来使用指数矩阵来接方程。如果矩阵可以对角化（在本例中显然可以），则$A=S\Lambda S^{-1}, e^{At}=Se^{\Lambda t}S^{-1}=S\begin{bmatrix}e^{\lambda_1t}&&&\\&e^{\lambda_1t}&&\\&&\ddots&\\&&&e^{\lambda_1t}\end{bmatrix}S^{-1}$，这个公式在能够快速计算$S,\lambda$时很方便求解。
 
 2. 已知矩阵的特征值$\lambda_1=0,\lambda_2=c,\lambda_3=2$，特征向量$x_1=\begin{bmatrix}1\\1\\1\end{bmatrix},x_2=\begin{bmatrix}1&-1&0\end{bmatrix},x_3=\begin{bmatrix}1\\1\\-2\end{bmatrix}$：
-    
+   
     *$c$如何取值才能保证矩阵可以对角化？*其实可对角化只需要有足够的特征向量即可，而现在特征向量已经足够，所以$c$可以取任意值。
     
     *$c$如何取值才能保证矩阵对称？*我们知道，对称矩阵的特征值均为实数，且注意到给出的特征向量是正交的，有了实特征值及正交特征向量，我们就可以得到对称矩阵。

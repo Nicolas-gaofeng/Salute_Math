@@ -1,5 +1,6 @@
-
 # 第十八讲：行列式及其性质
+
+> [本章jupyter地址](https://github.com/Nicolas-gaofeng/Salute_Math/blob/main/jupyter/chapter18.ipynb)
 
 本讲我们讨论出行列式（determinant）的性质：
 

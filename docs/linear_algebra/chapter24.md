@@ -1,5 +1,6 @@
-
 # 第二十四讲：马尔科夫矩阵、傅里叶级数
+
+> [本章jupyter地址](https://github.com/Nicolas-gaofeng/Salute_Math/blob/main/jupyter/chapter24.ipynb)
 
 ## 马尔科夫矩阵
 

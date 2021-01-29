@@ -1,5 +1,6 @@
-
 # 第十六讲：投影矩阵和最小二乘
+
+> [本章jupyter地址](https://github.com/Nicolas-gaofeng/Salute_Math/blob/main/jupyter/chapter16.ipynb)
 
 上一讲中，我们知道了投影矩阵$P=A(A^TA)^{-1}A^T$，$Pb$将会把向量投影在$A$的列空间中。
 

@@ -1,5 +1,6 @@
-
 # 第十七讲：正交矩阵和Gram-Schmidt正交化法
+
+> [本章jupyter地址](https://github.com/Nicolas-gaofeng/Salute_Math/blob/main/jupyter/chapter17.ipynb)
 
 ## 标准正交矩阵
 

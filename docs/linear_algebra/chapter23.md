@@ -1,5 +1,6 @@
-
 # 第二十三讲：微分方程和$e^{At}$
+
+> [本章jupyter地址](https://github.com/Nicolas-gaofeng/Salute_Math/blob/main/jupyter/chapter23.ipynb)
 
 ## 微分方程$\frac{\mathrm{d}u}{\mathrm{d}t}=Au$
 
